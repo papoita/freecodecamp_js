@@ -1,3 +1,6 @@
+//16. Divide One Decimal by Another with JavaScript
+
+var quotient = 4.4 / 2.0; 
 //15.Multiply Two Decimals with JavaScript
  var product = 2.0 * 2.5;
 
@@ -6,7 +9,7 @@
 var ourDecimal = 5.7;
 
 // Only change code below this line
-var myDecimal = 5.5;
+
 
 //13.Decrement a Number with JavaScript
 var myVar = 11;
