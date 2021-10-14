@@ -1,3 +1,6 @@
+//Add Two Numbers with JavaScript
+var sum = 10 + 10;
+
 //7. Understanding Case Sensitivity in Variables
 // Variable declarations
 var studlyCapVar;
