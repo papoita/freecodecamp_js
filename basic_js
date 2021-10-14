@@ -1,3 +1,10 @@
+//13.Decrement a Number with JavaScript
+var myVar = 11;
+
+// Only change code below this line
+myVar = myVar - 1;
+myVar --;
+
 //12.Increment a Number with JavaScript
 i++;
 i = i + 1;
