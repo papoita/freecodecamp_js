@@ -1,3 +1,24 @@
+//18. Compound Assignment With Augmented Addition
+//In programming, it is common to use assignments to modify the contents of a variable. Remember that everything to the right of the ///equals sign is evaluated first, so we can say
+
+var myVar = 1;
+myVar += 5;
+console.log(myVar);
+
+var a = 3;
+var b = 17;
+var c = 12;
+
+// Only change code below this line
+a = a + 12;
+b = 9 + b;
+c = c + 7;
+
+//to
+a += 12;
+b += 9;
+c += 7;
+
 //17. Finding a Remainder in JavaScript
 5 % 2 = 1 because
 Math.floor(5 / 2) = 2 (Quotient)
