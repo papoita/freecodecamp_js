@@ -1,3 +1,28 @@
+
+//21.Compound Assignment With Augmented Division
+a /= 12;
+b /= 4;
+c /= 11;
+//20. Compound Assignment With Augmented Multiplication
+var a = 5;
+var b = 12;
+var c = 4.6;
+
+// Only change code below this line
+a = a * 5;
+b = 3 * b;
+c = c * 10;
+//to
+a *= 5;
+b *= 3;
+c *= 10;
+
+
+//19. Compound Assignment With Augmented Subtraction
+
+a -= 6;
+b -= 15;
+c -= 1;
 //18. Compound Assignment With Augmented Addition
 //In programming, it is common to use assignments to modify the contents of a variable. Remember that everything to the right of the ///equals sign is evaluated first, so we can say
 
