@@ -1,3 +1,18 @@
+//17. Finding a Remainder in JavaScript
+5 % 2 = 1 because
+Math.floor(5 / 2) = 2 (Quotient)
+2 * 2 = 4
+5 - 4 = 1 (Remainder)
+
+17 % 2 = 1 (17 is Odd)
+48 % 2 = 0 (48 is Even)
+
+var remainder;
+remainder = 11 % 3;
+
+//Note: The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.
+
+
 //16. Divide One Decimal by Another with JavaScript
 
 var quotient = 4.4 / 2.0; 
